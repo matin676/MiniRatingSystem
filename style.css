@@ -141,18 +141,3 @@ p {
   text-align: center;
   margin: 20px;
 }
-
-.attribution {
-  position: absolute;
-  font-size: 11px;
-  background: transparent;
-  bottom: 0;
-  margin: auto;
-  left: 0;
-  right: 0;
-  text-align: center;
-}
-
-.attribution a {
-  color: hsl(228, 45%, 44%);
-}

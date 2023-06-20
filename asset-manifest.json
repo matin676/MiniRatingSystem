@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/MiniRatingSystem/static/css/main.66e890a4.css",
+    "main.js": "/MiniRatingSystem/static/js/main.6bcd511f.js",
+    "index.html": "/MiniRatingSystem/index.html",
+    "main.66e890a4.css.map": "/MiniRatingSystem/static/css/main.66e890a4.css.map",
+    "main.6bcd511f.js.map": "/MiniRatingSystem/static/js/main.6bcd511f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.66e890a4.css",
+    "static/js/main.6bcd511f.js"
+  ]
+}

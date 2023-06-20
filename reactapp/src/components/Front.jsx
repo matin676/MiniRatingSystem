@@ -21,7 +21,7 @@ export default function Front() {
   return (
     <div id="page-1" className="page-1">
       <div className="container">
-        <img src="%PUBLIC_URL%/icon-star.svg" alt="" />
+        <img src="./icon-star.svg" alt="" />
         <h2>How did we do?</h2>
         <p>
           Please let us know how we did with your support request. All feedback
